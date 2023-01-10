@@ -2,16 +2,21 @@ import React from 'react'
 
 
 
-class Person extends React.Component {
+class HornedBeast extends React.Component {
   render[]{
     return(
       <>
-      <article>
-        <p>{this.props.name}</p>
-      </article>
+      <h2>{this.props.title}<h2/>
+      <img
+      src={this.props.image_url}
+      alt={this.props.alt}
+      title={this.props.title}
+      />
+      <p>{this.props.description}<p/>
+      
       </>
     )
   }
 }
 
-export default Person;
+export default HornedBeast;
