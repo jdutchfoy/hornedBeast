@@ -12,8 +12,7 @@ class HornedBeast extends React.Component {
       alt={this.props.alt}
       title={this.props.title}
       />
-      <p>{this.props.description}<p/>
-
+      <p>{this.props.description}</p>
       </> 
     )
   }
