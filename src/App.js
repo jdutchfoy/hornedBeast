@@ -10,7 +10,6 @@ class App extends React.Component {
     return(
       <>
       <Header/>
-      <h2>Yo!</h2>
       <Main/>
       <Footer/>
       </>
