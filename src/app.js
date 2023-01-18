@@ -177,11 +177,5 @@ class App extends React.Component {
 }
 
 // export
-//help from Brandon P
+//helped by Brandon P Taino Joe D TA
 export default App;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
