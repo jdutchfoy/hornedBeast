@@ -5,7 +5,7 @@ import Main from "./Main.js";
 import Footer from "./components/Footer.js";
 import SelectedBeast from "./components/SelectedBeast.js";
 import "./App.css";
-import data from "./components/data.json";
+import data from "./data.json";
 import {Form, Button} from 'react-bootstrap';
 
 //2nd import
