@@ -26,10 +26,10 @@
 
 button:hover {
   transform: scale(1.2, 1.2);
-
+}
   button:active {
     transform: scale(1,1);  
-
+  }
 .App-link {
   color: #61dafb;
 }
