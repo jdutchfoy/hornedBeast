@@ -1,11 +1,11 @@
 //1st import
 import React from "react";
-import Header from "./components/Header.js";
+import Header from "./Header.js";
 import Main from "./Main.js";
-import Footer from "./components/Footer.js";
-import SelectedBeast from "./components/SelectedBeast.js";
+import Footer from "./Footer.js";
+import SelectedBeast from "./SelectedBeast.js";
 import "./App.css";
-import data from "./data.json";
+import data from "./Data.json";
 import {Form, Button} from 'react-bootstrap';
 
 //2nd import
