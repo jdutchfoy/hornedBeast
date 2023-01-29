@@ -1,7 +1,7 @@
 // 1st import
 import React from "react";
-import HornedBeast from "./HornedBeast.js";
-// import data from "./components/data.json";
+// components was missing HornedBeast.js
+import HornedBeast from "./components/HornedBeast.js";
 import "./Main.css";
 
 // class component
@@ -30,4 +30,3 @@ class Main extends React.Component {
   }
 }
 export default Main;
-// export
